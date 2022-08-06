@@ -15046,6 +15046,12 @@
       authtype='0'
       type='default'
   />
+  <apn carrier="APUA inet"
+      mcc="344"
+      mnc="03"
+      apn="net"
+      type="default,supl"
+  />
   <apn carrier="INTERNET Digicel"
       carrier_id = "1577"
       mcc="338"
